@@ -1,4 +1,4 @@
-package com.spring.pdfmerge;
+package com.spring.pdfgen;
 
 import java.io.File;
 import java.io.FileNotFoundException;
