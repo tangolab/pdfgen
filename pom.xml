@@ -8,9 +8,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.spring</groupId>
-	<artifactId>pdfmerge</artifactId>
+	<artifactId>pdfgen</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PDF Doc Generator</name>
+	<name>pdfgen</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

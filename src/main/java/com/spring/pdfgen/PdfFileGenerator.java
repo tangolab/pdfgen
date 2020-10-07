@@ -18,10 +18,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PdfFileMergeApplication implements ApplicationRunner {
+public class PdfFileGenerator implements ApplicationRunner {
 
     public static void main(String[] args) {
-        SpringApplication.run(PdfFileMergeApplication.class, args);
+        SpringApplication.run(PdfFileGenerator.class, args);
     }
 
     private static void iTextGen() {
